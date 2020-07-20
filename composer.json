@@ -1,12 +1,12 @@
 {
-    "name": "rumd3x/notifier-interface",
+    "name": "estandarte/notifier-interface",
     "description": "Standard interface for objects that send notifications.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "rumd3x",
-            "email": "edmurcardoso@gmail.com"
+            "name": "Leandro Chaves",
+            "email": "leandro@chaves.in"
         }
     ],
     "require": {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Rumd3x\\Standards\\": "src/"
+            "Estandarte\\Standards\\": "src/"
         }
     }
 }

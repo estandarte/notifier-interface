@@ -1,5 +1,5 @@
 <?php
-namespace Rumd3x\Standards;
+namespace Estandarte\Standards;
 
 interface NotifierInterface
 {
